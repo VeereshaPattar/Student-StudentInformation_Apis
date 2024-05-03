@@ -26,5 +26,5 @@ The `api/postman/StudentInfoPostmanCollection.postman_collection` file contains 
 
 After importing the `StudentInfoPostmanCollection.postman_collection` file into Postman, you can use the APIs by sending requests to them. Ensure to set up the collection variables correctly:
 
-- `$username`: student environment username
-- `$password`: student environment password
+- `username`: student environment username
+- `password`: student environment password
